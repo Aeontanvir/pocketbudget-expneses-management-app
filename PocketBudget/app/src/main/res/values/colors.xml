@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#fff</color>
+
+    <!-- Title -->
+    <color name="colorTitle">#fff</color>
+    <color name="colorMoto">#00b900</color>
+
+
+
+
+
+    <!-- row_layout -->
+    <color name="rowBackground">#2cffffff</color>
+    <color name="rowTitle">#fff</color>
+
+    <!-- dialog_layout -->
+    <color name="dialogBg">#b5000000</color>
+    <color name="dialogViewBg">#ccc</color>
+
+
+</resources>

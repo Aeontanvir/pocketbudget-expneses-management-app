@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/rowBackground">
+    <TextView
+        android:id="@+id/txtBudgetRowName"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="70"
+        android:textColor="@color/rowTitle"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnBudgetRowView"
+        android:text="@string/txtDetails"
+        android:textAlignment="center"
+        android:layout_weight="30"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+</LinearLayout>

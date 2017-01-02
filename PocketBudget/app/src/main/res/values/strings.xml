@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pocket Budget</string>
+    <string name="app_moto">Take Care Your Pocket Money</string>
+
+
+    <string name="button_create_new">Create New</string>
+    <string name="title_activity_budget">BudgetActivity</string>
+
+
+
+
+
+    <string name="txtName">Name</string>
+    <string name="txtAmount">Amount</string>
+    <string name="txtSource">Source</string>
+    <string name="txtDetails">Details</string>
+    <string name="txtExpense">Expense</string>
+    <string name="txtBudget">Budget</string>
+    <string name="txtTK">TK</string>
+    <string name="txtCencel">Cencel</string>
+</resources>
